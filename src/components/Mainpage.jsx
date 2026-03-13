@@ -55,7 +55,7 @@ const Mainpage = () => {
         <div className="searchBar">
           <input
             type="text"
-            placeholder="Search for a dish"
+            placeholder="Search for a dishes..."
             value={search}
             onChange={handleInput}
           />
