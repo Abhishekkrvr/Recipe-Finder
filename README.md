@@ -1,16 +1,20 @@
-# React + Vite
+# Recipe Finder App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive, and visually appealing Recipe Finder web app built with **React**. Users can search for meals, view detailed recipes with ingredients and step-by-step instructions, and explore meals in a clean, premium UI. The app features a **purple-themed design**, smooth hover effects, and a responsive layout for desktop, tablet, and mobile.
 
-Currently, two official plugins are available:
+**Features:**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+* Search meals by name
+* View detailed recipe with ingredients and instructions
+* Responsive grid layout for meals
+* Premium purple gradient UI with hover effects
+* Sticky footer with GitHub & LinkedIn links
+* Fully responsive on all devices
 
-## React Compiler
+**Tech Stack:**
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* React.js
+* CSS3 (with modern gradients and shadows)
+* REST API: [TheMealDB](https://www.themealdb.com/api.php)
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+**Made by:** Abhishek Verma
