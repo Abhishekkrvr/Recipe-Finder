@@ -36,7 +36,7 @@ const Mainpage = () => {
     const jsonData = await res.json();
 
     if (!jsonData.meals) {
-      setMsg("No recipe found");
+      setMsg("No recipe found☹️");
       setData([]);
     } else {
       setData(jsonData.meals);
@@ -49,7 +49,7 @@ const Mainpage = () => {
 
   return (
     <>
-      <h1 className="head">Purple Plate</h1>
+      <h1 className="head">Recipe Finder</h1>
 
       <div className="container">
         <div className="searchBar">
