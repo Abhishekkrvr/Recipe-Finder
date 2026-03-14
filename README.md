@@ -1,5 +1,7 @@
 # Recipe Finder App
 
+Live Preview - https://recipe-finder-coral-nine.vercel.app/
+
 A modern, responsive, and visually appealing Recipe Finder web app built with **React**. Users can search for meals, view detailed recipes with ingredients and step-by-step instructions, and explore meals in a clean, premium UI. The app features a **purple-themed design**, smooth hover effects, and a responsive layout for desktop, tablet, and mobile.
 
 **Features:**
