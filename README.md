@@ -1,4 +1,4 @@
-# Recipe Finder <h3>Purple Plate</h3>
+# Recipe Finder
 
 Live Preview - https://recipe-finder-coral-nine.vercel.app/
 
