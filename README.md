@@ -1,4 +1,4 @@
-# Recipe Finder App
+# Recipe Finder
 
 Live Preview - https://recipe-finder-coral-nine.vercel.app/
 
